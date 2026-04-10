@@ -24,7 +24,7 @@ A simple and interactive color palette generator that allows users to create vis
 
 ## Preview
 
-![Application Preview](./preview.png)
+![Application Preview](preview.png)
 
 ---
 
